@@ -1,0 +1,45 @@
+{
+	"products":[
+    {"name": "Ayakkabı", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+    {"name": "Laptop", "description": "Laptop Aciklama", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 1, "price": "550₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı2", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "542₺", "star": 4, "basket": false},
+ {"name": "Ayakkab3", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "320₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı4", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "20₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı5", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "68₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı6", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "500₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı7", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "125₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı8", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı9", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı10", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı11", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false},
+ {"name": "Ayakkabı12", "description": "Aciklama1", "image": "./assets/products-images/ayakkabi.jpg", "categoryId": 2, "price": "85₺", "star": 4, "basket": false}],
+
+	"categories":[
+	 {
+      "categoryId": 1,
+      "name": "Elektronik",
+      "image":"./assets/categories-images/electronic.jpg"	
+    },
+    {
+      "categoryId": 2,
+      "name": "Giyim",
+      "image":"./assets/categories-images/giyim.jpg"
+},
+{
+      "categoryId": 3,
+      "name": "Aksesuar",
+      "image":"./assets/categories-images/aksesuar.png"	
+    },
+{
+      "categoryId": 4,
+      "name": "Evcil Hayvan",
+      "image":"./assets/categories-images/hayvan.jpg"	
+    },
+{
+      "categoryId": 5,
+      "name": "Kitap",
+      "image":"./assets/categories-images/kitap.jpg"	
+    }
+]
+}
